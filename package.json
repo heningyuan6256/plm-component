@@ -1,6 +1,6 @@
 {
   "name": "pv-plm",
-  "version": "5.0.2",
+  "version": "5.0.9",
   "description": "组件pv测试",
   "private": false,
   "scripts": {
